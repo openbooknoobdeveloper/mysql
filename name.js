@@ -1,5 +1,10 @@
+
+mysql -h localhost -u root -p
+
 INSERT INTO `members` (`activated`) VALUES (1);
 UPDATE members SET activated='1' WHERE email='admin@example.com';
+
+UPDATE members SET activated='2' WHERE email='admin@peatio.dev';
 
 
 
