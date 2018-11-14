@@ -13,7 +13,7 @@ sudo mount -t vboxsf FOLDERNAME /PATH/OF/FOLDER
 
 sudo mount -t vboxsf folder-name-on-windows /PATH/OF/FOLDER-ubuntu-u-created
 
-
+sudo mount -t vboxsf 2018 /home/ubuntu1604/shared-win
 
 How to show only hidden files in Terminal?
 https://askubuntu.com/questions/468901/how-to-show-only-hidden-files-in-terminal
@@ -29,3 +29,6 @@ cp -R path_to_source path_to_destination/
   
   
     sudo cp -r /home/ubuntu1604/testnet3 /home/deploy/.bitcoin
+
+
+    sudo cp -r /home/deploy/.bitcoin/testnet3 /home/ubuntu1604/.bitcoin
