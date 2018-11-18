@@ -1,5 +1,13 @@
+https://gorails.com/setup/ubuntu/16.04#ruby
+
+https://steemit.com/rails/@bilal-haider/setting-up-rubykube?sort=author_reputation
 
 mysql -h localhost -u root -p
+
+sudo netstat -p -nlp | grep 3306
+
+sudo kill -TERM 32636
+
 
 INSERT INTO `members` (`activated`) VALUES (1);
 UPDATE members SET activated='1' WHERE email='admin@example.com';
