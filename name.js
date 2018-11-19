@@ -1,3 +1,14 @@
+install docker compose
+https://docs.docker.com/compose/install/#install-compose
+
+
+install docker:
+curl -sSL https://get.docker.com/ | sudo bash
+
+
+sudo apt-get install bundler
+
+
 create btc address by terminal
 
 https://bitcoin.stackexchange.com/questions/34266/how-to-get-a-wallet-address-and-set-label-via-rpc
