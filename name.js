@@ -45,11 +45,15 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.23.1/docker-
 
 sudo chmod +x /usr/local/bin/docker-compose
 
+docker-compose --version
+
+
 
 
 install docker:
 curl -sSL https://get.docker.com/ | sudo bash
 
+docker version
 
 sudo apt-get install bundler
 
