@@ -17,6 +17,12 @@ test 1 2N7Z32eFL8EP8gMVDGyC1VpEMoGcGF8qyqp
 
 ฿
 
+http://monitor.wb.local/dashboard/
+http://pma.wb.local/
+http://api.wb.local/
+http://auth.wb.local/
+
+
 
 txid: 4200cea53a075f3081156a9d664fe05cfe108a09e26e8f20ee65e7ebe141060b
 
