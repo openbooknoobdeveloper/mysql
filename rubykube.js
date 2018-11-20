@@ -31,3 +31,10 @@ Link /opt/peatio/config/seed/blockchains.yml -> /home/app/config/seed/blockchain
 Link /opt/peatio/config/seed/markets.yml -> /home/app/config/seed/markets.yml
 Link /opt/peatio/config/management_api_v1.yml -> /home/app/config/management_api_v1.yml
 Link /opt/peatio/config/plugins.yml -> /home/app/config/plugins.yml
+
+
+
+
+front end is mostly in app/views/
+
+stylesheets is in app/assets/stylesheets
