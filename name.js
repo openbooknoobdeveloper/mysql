@@ -38,6 +38,21 @@ create btc address by terminal
 
 https://bitcoin.stackexchange.com/questions/34266/how-to-get-a-wallet-address-and-set-label-via-rpc
 
+For manually, do:
+
+bitcoin-cli getaddressesbyaccount "donations"
+
+If the JSON array returned is empty, then no address is associated. To create a new bitcoin address with that label, do:
+
+bitcoin-cli getnewaddress "donations"
+
+To get an address for the "donations" account, do:
+
+bitcoin-cli getaccountaddress "donations"
+
+
+
+
 https://gorails.com/setup/ubuntu/16.04#ruby
 
 https://steemit.com/rails/@bilal-haider/setting-up-rubykube?sort=author_reputation
