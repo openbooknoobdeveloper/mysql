@@ -1,6 +1,9 @@
 ethereum testnet 
 0x4a4a58550e46d8a0ed32cc69a094e0e82d287918 
 
+How to get on Rinkeby Testnet in less than 10 minutes
+https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc
+
 
 eth testnet system
 
