@@ -4,6 +4,7 @@ ethereum testnet
 
 
 btc testnet
+test 1 2N7Z32eFL8EP8gMVDGyC1VpEMoGcGF8qyqp
 
 ฿
 
