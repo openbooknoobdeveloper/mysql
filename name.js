@@ -1,6 +1,22 @@
 ethereum testnet 
 0x4a4a58550e46d8a0ed32cc69a094e0e82d287918 
 
+
+txid: 4200cea53a075f3081156a9d664fe05cfe108a09e26e8f20ee65e7ebe141060b
+
+block: 1443900
+
+address: mum6KQEwAHGDRr7HRXx7hufcsyqiGPUCtN
+
+So in your case simply use this:
+
+https://testnet.blockchain.info/tx/#{txid}
+
+https://testnet.blockchain.info/address/#{address}
+
+
+
+
 install docker compose
 https://docs.docker.com/compose/install/#install-compose
 sudo curl -L "https://github.com/docker/compose/releases/download/1.23.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
