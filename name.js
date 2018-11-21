@@ -4,6 +4,9 @@ ethereum testnet
 How to get on Rinkeby Testnet in less than 10 minutes
 https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc
 
+eth testnet user:
+0xcc205fc4a6f94ae6910273046fe5fead181aac03
+
 
 eth testnet system
 
