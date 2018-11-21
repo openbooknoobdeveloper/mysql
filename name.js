@@ -11,6 +11,7 @@ eth testnet user:
 ls: cannot open directory '.': Permission denied
 ubuntu@ubuntu-VirtualBox:/var/lib/docker$ cd ..
 ubuntu@ubuntu-VirtualBox:/var/lib$ ls -lrt
+drwx--x--x 14 root          root          4096 Nov 20 17:52 docker
 
 
 
