@@ -8,6 +8,12 @@ eth testnet user:
 0xcc205fc4a6f94ae6910273046fe5fead181aac03
 
 
+ls: cannot open directory '.': Permission denied
+ubuntu@ubuntu-VirtualBox:/var/lib/docker$ cd ..
+ubuntu@ubuntu-VirtualBox:/var/lib$ ls -lrt
+
+
+
 eth testnet system
 
 0x2b9fBC10EbAeEc28a8Fc10069C0BC29E45eBEB9C 	
